@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="202.17155mm"
+   height="135.87579mm"
+   viewBox="0 0 202.17155 135.87579"
+   version="1.1"
+   id="svg2518"
+   sodipodi:docname="mailIcon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2520"
+     pagecolor="#9e9e9e"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="518.45189"
+     inkscape:cy="801.46003"
+     inkscape:window-width="1440"
+     inkscape:window-height="890"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2515">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2231"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,33,0,1 @ F,0,0,1,0,33,0,1"
+       unit="mm"
+       method="auto"
+       mode="F"
+       radius="33"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(345.22983,62.904003)">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       id="rect356-3"
+       width="190.17155"
+       height="123.8758"
+       x="-339.22983"
+       y="-56.904003"
+       rx="33"
+       ry="33" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m -328.13887,-47.424768 59.53549,53.9210566 a 36.436064,36.436064 180 0 0 48.91862,-7e-7 l 60.30309,-54.6162729"
+       id="path2229"
+       inkscape:path-effect="#path-effect2231"
+       inkscape:original-d="m -328.13887,-47.424768 83.9948,76.073757 84.7624,-76.768974"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
